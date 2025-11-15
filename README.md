@@ -8,6 +8,7 @@ This repository serves as a central reference point for developers and collabora
 ## 📂 Projects
 
 - https://github.com/LucaVitali/SimpleAcsCallBot
+  
   *A simple Web App to receive Incoming Call event from Azure Communication Service and answer calls with an audio file.*
 
 ---
